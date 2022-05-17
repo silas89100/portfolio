@@ -1,0 +1,47 @@
+:root {
+    font-size: 1rem;
+}
+
+body {
+    background-color: #EBECE6;
+    margin: 5px;
+}
+
+nav {
+    background-color: #EBECE6;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.logo {
+    width: 60px;
+}
+
+.name {
+    text-align: center;
+}
+
+main {
+    margin-top: 150px;
+}
+
+h1 {
+    background-color: black;
+    color: #FFEC40;
+    text-align: center;
+}
+
+p {
+    background-color: black;
+    color: #FFEC40;
+    text-align: center;
+    font-size: 1.5rem;
+    border-radius: 10px;
+}
